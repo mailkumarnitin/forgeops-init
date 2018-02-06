@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/ukretail",
+    "realm" : "/openbanking",
     "amsterVersion" : "5.5.0",
     "entityType" : "HotpModule",
     "entityId" : "HOTP",
@@ -24,7 +24,7 @@
     "userProfileTelephoneAttribute" : "telephoneNumber",
     "smtpFromAddress" : "no-reply@openam.org",
     "smtpUserPassword" : null,
-    "smtpUserPassword-encrypted" : "AAAAA0FFUwIQZ3sdKLLXftzsBBamaaZKdobk/ofZUohH9/4dXkc0rsO00UMJzvsYQg==",
+    "smtpUserPassword-encrypted" : "AAAAA0FFUwIQGRJ9p2flZ5cmsksDHhfSKsVhHx2o82b8xCTj5Omea6cBx7nu5ci9qw==",
     "_type" : {
       "_id" : "hotp",
       "name" : "HOTP",

@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/",
+    "realm" : "/openbanking",
     "amsterVersion" : "5.5.0",
     "entityType" : "Authentication",
     "entityId" : "Authentication",
@@ -38,7 +38,7 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQECndcPEhfclID3TPXWXeQCUMgeXawvOg7txSOu2EgvJriD8Kc5kH89+HW5Dbj8cZVgYfIQ6e3E1qndx0EaaP5M7jMKNuNojj",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQGipcxcUZEGsLaC9fpE89yhcj/R0J4TYbsCxwtv0ayA9Y++rANz/pTwy3Eh2pNzC3L0vgx8z5tSRgmU1RHbXCmo/pXlc4INos",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]

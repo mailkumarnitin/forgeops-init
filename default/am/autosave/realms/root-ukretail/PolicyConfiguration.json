@@ -21,7 +21,7 @@
     "sslEnabled" : false,
     "usersBaseDn" : "dc=openam,dc=forgerock,dc=org",
     "bindPassword" : null,
-    "bindPassword-encrypted" : "AAAAA0FFUwIQha+/yWjFQ2CvVPIYdmFlYxIB3djrvucXfONUlD+eiCzprsCZnyuDOg==",
+    "bindPassword-encrypted" : "AAAAA0FFUwIQFsqvWYr39mKz2ryprD5Kh1NliJCCNWIt7IK8xe9xcFVfWbDNT1vSww==",
     "connectionPoolMaximumSize" : 10,
     "policyHeartbeatTimeUnit" : "SECONDS",
     "maximumSearchResults" : 100,

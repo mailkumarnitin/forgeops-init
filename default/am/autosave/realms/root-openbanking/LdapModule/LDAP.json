@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/ukretail",
+    "realm" : "/openbanking",
     "amsterVersion" : "5.5.0",
     "entityType" : "LdapModule",
     "entityId" : "LDAP",
@@ -11,7 +11,7 @@
     "authenticationLevel" : 0,
     "userSearchFilter" : null,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQxMJDWN+WDSvkSncNIvohCdUq2Hb/ReO7OG2mildQ2qlreqCb/6NMRg==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQYzs8Ny6ZNCzk8RWWhyiXEyPefrBJ9WH8PdCSfbbA66+TR9MGnSc/nA==",
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "profileAttributeMappings" : [ ],

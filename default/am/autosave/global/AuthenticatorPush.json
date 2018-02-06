@@ -12,7 +12,7 @@
       "authenticatorPushDeviceSettingsEncryptionKeystoreKeyPairAlias" : null,
       "authenticatorPushDeviceSettingsEncryptionKeystore" : "/home/forgerock/openam/openam/keystore.jks",
       "authenticatorPushDeviceSettingsEncryptionKeystorePassword" : null,
-      "authenticatorPushDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQ6j/u6hgzlutqJLLpNjUjud5jA+f1DBa1WFKSQj6UOVl3CYdR1pbglQ==",
+      "authenticatorPushDeviceSettingsEncryptionKeystorePassword-encrypted" : "AAAAA0FFUwIQlGpWHDBQvbaHaqY1Sx2Pj37R48ixuuKHtGoIRXDYXuS9unmiQtxh/A==",
       "authenticatorPushDeviceSettingsEncryptionKeystorePrivateKeyPassword" : null,
       "pushAttrName" : "pushDeviceProfiles",
       "authenticatorPushDeviceSettingsEncryptionKeystoreType" : "JKS",

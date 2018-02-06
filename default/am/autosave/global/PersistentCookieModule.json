@@ -16,7 +16,7 @@
       "useHttpOnlyCookie" : true,
       "cookieName" : "session-jwt",
       "hmacKey" : null,
-      "hmacKey-encrypted" : "AAAAA0FFUwIQwtDua/1VtTsioBv1diCj22zjGcMmVw4AtvFyoH0F0KpMHJTk2nUAmSy9+orZhBnOWRwHy9OIawo8U+mZAaw6UqBAFz7av6Iy"
+      "hmacKey-encrypted" : "AAAAA0FFUwIQUBqIovgPga6yq0cgoEBntd0SpMMaH+RWc/BTE9StOqkpeGzoBduZg24gwW37giJiF5OA8m6u2wdWH3FopZEkUQ/we0jxjr12"
     },
     "_type" : {
       "_id" : "persistentcookie",

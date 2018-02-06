@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "realm" : "/ukretail",
+    "realm" : "/openbanking",
     "amsterVersion" : "5.5.0",
     "entityType" : "OpenDJ",
     "entityId" : "OpenDJ",
@@ -49,7 +49,7 @@
     "sun-idrepo-ldapv3-config-time-limit" : 10,
     "sun-idrepo-ldapv3-config-inactive" : "Inactive",
     "sun-idrepo-ldapv3-config-authpw" : null,
-    "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQsj969xMEBpx3aCZ2EThUdZ3kM68iRZumtNvw8Nrrg7RyKCtv7rq5aw==",
+    "sun-idrepo-ldapv3-config-authpw-encrypted" : "AAAAA0FFUwIQb0C1X3OFIWB1ocZa05MlEQjz9k45aPlalFWZVrcxNt+HBL1Ehpla1g==",
     "sun-idrepo-ldapv3-config-people-container-value" : "people",
     "com.iplanet.am.ldap.connection.delay.between.retries" : 1000,
     "_type" : {
