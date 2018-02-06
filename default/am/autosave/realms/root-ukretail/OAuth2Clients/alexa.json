@@ -52,7 +52,7 @@
     },
     "coreOAuth2ClientConfig" : {
       "userpassword" : null,
-      "userpassword-encrypted" : "AAAAA0FFUwIQmRp8Z2UaEO877XURul2L/WfOQlQ35pZSRypgXpvwX1zP59FLDY0LJA==",
+      "userpassword-encrypted" : "AAAAA0FFUwIQc6XQkmRGgv90fHsBI2+TcDXDSkLSJsSnZTlGJwl64HvnqSt5x2oj4w==",
       "authorizationCodeLifetime" : 0,
       "accessTokenLifetime" : 0,
       "defaultScopes" : [ ],

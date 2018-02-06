@@ -9,10 +9,13 @@
   "data" : {
     "_id" : "iPlanetAMWebAgentService",
     "displayName" : "Default Policy Set",
+    "conditions" : [ "LEAuthLevel", "Script", "AuthenticateToService", "SimpleTime", "AMIdentityMembership", "OR", "IPv6", "IPv4", "SessionProperty", "AuthScheme", "AuthLevel", "NOT", "Transaction", "AuthenticateToRealm", "AND", "ResourceEnvIP", "LDAPFilter", "OAuth2Scope", "Session" ],
     "description" : "The built-in Application used by OpenAM Policy Agents.",
     "attributeNames" : [ ],
-    "conditions" : [ "LEAuthLevel", "Script", "AuthenticateToService", "SimpleTime", "AMIdentityMembership", "OR", "IPv6", "IPv4", "SessionProperty", "AuthScheme", "AuthLevel", "NOT", "Transaction", "AuthenticateToRealm", "AND", "ResourceEnvIP", "LDAPFilter", "OAuth2Scope", "Session" ],
     "createdBy" : "id=dsameuser,ou=user,dc=openam,dc=forgerock,dc=org",
+    "creationDate" : 1517867893206,
+    "lastModifiedBy" : "id=amadmin,ou=user,dc=openam,dc=forgerock,dc=org",
+    "lastModifiedDate" : 1517927744960,
     "resourceTypeUuids" : [ "76656a38-5f8e-401b-83aa-4ccb74ce88d2" ],
     "entitlementCombiner" : "DenyOverride",
     "applicationType" : "iPlanetAMWebAgentService",
@@ -21,9 +24,6 @@
     "searchIndex" : null,
     "resourceComparator" : null,
     "editable" : true,
-    "creationDate" : 1517867893206,
-    "lastModifiedBy" : "id=amadmin,ou=user,dc=openam,dc=forgerock,dc=org",
-    "lastModifiedDate" : 1517915631964,
     "name" : "iPlanetAMWebAgentService"
   }
 }
