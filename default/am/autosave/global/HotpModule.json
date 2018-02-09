@@ -25,7 +25,7 @@
       "userProfileTelephoneAttribute" : "telephoneNumber",
       "smtpFromAddress" : "no-reply@openam.org",
       "smtpUserPassword" : null,
-      "smtpUserPassword-encrypted" : "AAAAA0FFUwIQ9N/HlB3AJY2973orIwKzWA6gdx1aA48vu5dnLmbxvjIr7of0D0Z3Lw=="
+      "smtpUserPassword-encrypted" : "AAAAA0FFUwIQ+YNLqiwRIV8WPMT3KVvLsqaDGKx3+53fltN8hto6jIKykLpBkfXTtw=="
     },
     "_type" : {
       "_id" : "hotp",
